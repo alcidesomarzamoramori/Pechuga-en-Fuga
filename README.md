@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 Descripción
+## Descripción
 
 En *Pechuga en fuga* controlas a un ave que corre y salta sin parar para escapar de los obstáculos que se cruzan en su camino — un guiño a la tradición peruana del pollo a la brasa, que puede reflejarse en el diseño de los obstáculos y escenarios (parrillas, brasas, utensilios de cocina, etc.).
 
