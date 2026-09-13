@@ -87,6 +87,6 @@ Próximas incorporaciones planeadas:
 
 ---
 
-## 📃 Licencia
+## Licencia
 
 MT: Es un juego libre e independiente. Leer más en LICENSE.md
