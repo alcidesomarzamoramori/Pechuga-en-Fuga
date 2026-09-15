@@ -74,7 +74,7 @@ flowchart TD
 
 - [x] Personaje que cae por gravedad
 - [x] Input de salto (ESPACIO / clic / toque)
-- [ ] Obstáculos con movimiento hacia la izquierda
+- [x] Obstáculos con movimiento hacia la izquierda
 - [ ] Generador automático de obstáculos
 - [ ] Sistema de detección de colisiones
 - [ ] Sistema de puntuación en pantalla
@@ -119,7 +119,7 @@ mindmap
       Récord máximo persistente
     Plataformas y controles
       Controles táctiles
-      Versión PC
+      Versión PC (beta)
       Versión Android
 ```
 
