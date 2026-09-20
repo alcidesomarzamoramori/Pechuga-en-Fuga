@@ -71,16 +71,6 @@ Próximas incorporaciones planeadas:
 
 ---
 
-## Cómo ejecutar el proyecto
-
-1. Clonar o descargar este repositorio.
-2. Abrir **Godot 4.x**.
-3. Seleccionar "Importar" y elegir el archivo `project.godot`.
-4. Ejecutar la escena principal desde el editor.
-5. Pronto quizá subirlo a F-Droid o descargarlo desde "Releases" aquí en GitHub.
-
----
-
 ## Autor
 
 **Omar Zamora**
