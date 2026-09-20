@@ -95,7 +95,7 @@ Para dar sentido a la temática planteada (al llegar a determinado puntaje, pues
 | Chullo y textiles andinos | Skin del personaje o detalles de interfaz |
 | Llama / alpaca | Personaje jugable alternativo (skin) |
 | Líneas de Nazca | Escenario alternativo tipo desierto costero |
-| Gastronomía (ceviche, choclo, etc.) | Ítem coleccionable estilo "moneda" |
+| Gastronomía | Ítem coleccionable estilo "moneda" |
 | Música andina / marinera | Banda sonora temática del juego |
 
 ---
