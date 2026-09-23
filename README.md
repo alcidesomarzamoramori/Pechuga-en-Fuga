@@ -71,10 +71,6 @@ Próximas incorporaciones planeadas:
 
 ---
 
-## Autor
-
-**Omar Zamora**
-
 ---
 
 ## Licencia
